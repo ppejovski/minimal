@@ -2,7 +2,9 @@
 title: Restarting the Blog on Hexo
 date: 2021-04-08 14:40:05
 ---
-Hey there, I have finally gone ahead and started the blog back up, this time using [Hexo](https://hexo.io/). 
+Hey there, after a couple of weeks of procrastination, I have finally gotten the blog back online, using [Hexo](https://hexo.io/) and [Netlify](https://netlify.com).
+
+<!-- more -->
 
 ## Why Hexo
 I decided on Hexo because it's fast, made for blogs, and built on JavaScript. I am planning to learn JS soon, and I've found that understanding is best achieved by struggling to get simple things done. Going with Hexo is really about accelerating the learning process by driving myself insane as I use it.
