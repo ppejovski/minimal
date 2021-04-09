@@ -1,7 +1,8 @@
 ---
 title: Day 1 of 100DaysOfCode
-date: 2021-04-08 14:46:22
+date: 2021-04-08 16:46:22
 tags: 100daysofcode
+categories: development
 ---
 
 I am going to be jumping right into getting started with [#100DaysOfCode](https://www.100daysofcode.com/). <!-- more --> If you haven't heard of the challenge before, it is really straight-forward:
