@@ -1,5 +1,5 @@
 ---
-title: Day 1 of 100DaysOfCode
+title: Day 1 of 100DaysOfCode - First Steps
 date: 2021-04-08 16:46:22
 tags: 100daysofcode
 categories: development

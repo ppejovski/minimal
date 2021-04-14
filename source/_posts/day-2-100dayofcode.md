@@ -1,5 +1,5 @@
 ---
-title: Day 2 of 100DaysOfCode
+title: Day 2 of 100DaysOfCode - Getting Started with Hexo
 date: 2021-04-09 04:18:46
 tags: 100daysofcode
 categories: development

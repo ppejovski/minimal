@@ -1,6 +1,6 @@
 ---
-title: Day 3 of 100DaysOfCode
-date: 2021-04-10 01:15:51
+title: Day 3 of 100DaysOfCode - Continuing the Tracker
+date: 2021-04-12 01:15:51
 tags:
 ---
 
